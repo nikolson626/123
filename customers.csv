@@ -1,0 +1,21 @@
+﻿ID,Produkt,Cena,Ilość,Dostawca
+1,Kawa,15.99,100,SupplierA
+2,Czekolada,4.99,50,SupplierB
+3,Chleb,2.49,200,SupplierC
+4,Mleko,1.99,150,SupplierA
+5,Jabłka,0.99,300,SupplierB
+6,Ciastka,3.49,80,SupplierC
+7,Woda mineralna,0.79,120,SupplierA
+8,Szynka,7.99,40,SupplierB
+9,Jogurt,2.29,60,SupplierC
+10,Piwo,3.99,70,SupplierA
+11,Płatki śniadaniowe,4.49,90,SupplierB
+12,Sok pomarańczowy,2.99,100,SupplierC
+13,Banan,1.29,120,SupplierA
+14,Ser,5.49,50,SupplierB
+15,Pasta do zębów,3.79,30,SupplierC
+16,Ryż,2.69,80,SupplierA
+17,Chipsy,1.49,120,SupplierB
+18,Szampon,4.29,40,SupplierC
+19,Cebula,0.69,150,SupplierA
+20,Detergent,5.99,25,SupplierB
